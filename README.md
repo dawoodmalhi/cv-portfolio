@@ -43,7 +43,7 @@ pnpm dev
 
 ## 🧞 Commands
 
-|     | Command         | Acción                                                                       |
+|     | Command         | Action                                                                       |
 | :-- | :-------------- | :--------------------------------------------------------------------------- |
 | ⚙️  | `dev` o `start` | Launch a local development server on `localhost:4321`.                       |
 | ⚙️  | `build`         | Checks for possible errors and does production packaging in `./dist/`.       |
