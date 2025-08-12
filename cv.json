@@ -1,68 +1,74 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Dawood Malhi",
+    "label": "Full Stack Web Developer",
+    "image": "/dawoodmalhi.jpg",
+    "email": "dawoodmalhi@outlook.com",
+    "phone": "+92 311 7187292",
+    "url": "https://dawoodmalhi.com",
+    "summary": "I am a Software Engineer specializing in Ruby and the Ruby on Rails framework, based in Lahore, Pakistan. My expertise lies in building robust and scalable backend systems, designing efficient database structures, and optimizing application performance for high-traffic environments. I also have a keen interest in system programming languages like Rust.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "52251",
+      "city": "Lahore",
+      "countryCode": "PK",
+      "region": "Pakistan"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "dawoodmalhi",
+        "url": "https://linkedin.com/in/dawoodmalhi"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "dawoodmalhi",
+        "url": "https://github.com/dawoodmalhi"
+      },
+      {
+        "network": "Instagram",
+        "username": "dawoodmalhi",
+        "url": "https://instagram.com/dawoodmalhi"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "EZRentout",
+      "position": "Software Engineer II",
+      "url": "https://ezo.io/ezrentout/",
+      "startDate": "2024-01-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "I enhanced CRM capabilities with dynamic customer and order states, optimised SQL for 8x faster load times, and resolved long-standing database corruption issues. I automated workflows, improved integrations with Shopify and WordPress, and developed a recommendation service boosting sales. My work on responsive design, AJAX-based partial updates, and multi-currency processing significantly improved user experience, performance, and global usability.",
       "highlights": [
-        "Started the company"
+        "Developed a feature introducing dynamic customer and order states for a comprehensive view of the customer lifecycle, enhancing CRM by enabling 30-50% targeted re-engagement and personalized interactions based on order history.",
+        "Optimized SQL queries, improving page load times by 8x and reducing RAM usage, boosting overall system performance.",
+        "Resolved database corruption issues spanning 5-8 years, implementing measures to ensure future data integrity.",
+        "Automated workflows with cronjobs, significantly reducing manual workloads by 100% and improving operational efficiency.",
+        "Crafted responsive web application pages and refined the design of existing pages by implementing standardized code structures on the front-end, resulting in an improved user experience and enhanced aesthetic appeal.",
+        "Improved EZRentout’s integration with Shopify and WordPress by enhancing plugins, increasing customer satisfaction by 2x.",
+        "Worked on a recommendation service suggesting items for purchase or rent based on user history and trends, increasing customer sales by 10-20",
+        "Refactored the order rendering flow to minimize full page refreshes by implementing model property snapshots and AJAX-based partial updates, improving user experience and achieving a 75–80% increase in page performance.",
+        "Implemented multi-currency processing in the system, enabling users to conduct business across multiple regions and currencies."
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "EZRentout",
+      "position": "Software Engineer I",
+      "url": "https://ezo.io/ezrentout/",
+      "startDate": "2022-06-20",
+      "endDate": "2024-01-01",
+      "summary": "I contributed to major performance, payment, and integration enhancements, including optimizing email and search systems, implementing multi-gateway payment processing, and worked on integration of accounting platforms like QuickBooks and Xero. I built internal analytics tools for customer insights, improved API capabilities for workflow automation, and resolved 120+ critical bugs, boosting stability and user satisfaction. My work consistently reduced processing times, streamlined operations, and significantly improved efficiency across multiple systems.",
       "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
+        "Enhanced email system performance built on AWS SES, resulting in a 20-30% reduction in search and filtering times.",
+        "Integrated Square Payment Gateway for online and in-person transactions, enabling payments for thousands of customers.",
+        "Implemented ElasticSearch for modules, reducing search and filtering times by 40-50% and enhancing system efficiency.",
+        "Engineered a robust Payment Engine for streamlined processing of payments, refunds, and cancellations across multiple gateways, reducing code complexity and improving efficiency with payment processing times shortened by 15-40%.",
+        "Built an internal data analysis service, providing insights into customer benefits with quarterly and yearly reporting.",
+        "Addressed time zone issues, ensuring accurate scheduling and synchronization, reducing time-related errors by 90%.",
+        "Added API endpoints, enabling users to automate workflows and increase customization, improving their productivity by 3-5x.",
+        "Enhanced accounting software integrations (QuickBooks, Xero), streamlining financial processes and reducing errors by 10%.",
+        "Resolved critical code bugs, addressing nearly 120+ issues and boosting overall system stability and user satisfaction."
       ]
     }
   ],
