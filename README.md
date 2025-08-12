@@ -3,11 +3,9 @@
     <h2><em>Résumé</em> Minimalist Layout for Web and PDF</h2>
     <p>JSON Resume Schema from <a href="https://jsonresume.org/schema/">jsonresume.org</a></p>
     <p>Based on the design by <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a> and template by <a href="https://github.com/midudev/minimalist-portfolio-json">Miguel Ángel Durán</a></p>
-    <p>Based on the design by <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a></p>
 </div>
 
-// TODO: Update this
-<img src="portada.png"></img>
+<img src="demo.png"></img>
 
 ## 🛠️ Stack
 

@@ -84,16 +84,14 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "University of Engineering and Technology",
+    "url": "https://cs.uet.edu.pk/Home",
+    "area": "Computer Science",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+    "startDate": "2018-09-01",
+    "endDate": "2022-10-01",
+    "score": "",
+    "courses": []
   }],
   "awards": [{
     "title": "Award",
@@ -116,86 +114,146 @@
   }],
   "skills": [
     {
+      "name": "Ruby",
+      "level": "Master",
+      "keywords": [
+        "Web Development", "Backend", "Scripting"
+      ]
+    },
+    {
+      "name": "Rails",
+      "level": "Master",
+      "keywords": [
+        "Web Development", "Backend", "Frontend", "Fullstack", "Framework"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Master",
+      "keywords": [
+        "Databases", "SQL", "Data Storage", "Backend"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Medium",
+      "keywords": [
+        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Medium",
+      "keywords": [
+        "Web Development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Medium",
+      "keywords": [
+        "Web Development", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
       "name": "HTML",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend"
+        "Web Development", "Frontend"
       ]
     },
     {
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "Web Development", "Frontend", "Responsive Design"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Medium",
+      "keywords": [
+        "Web Development", "Frontend", "CSS Framework", "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Web Development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
+      "level": "Medium",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Web Development", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
-      "name": "Node",
-      "level": "Avanzado",
+      "name": "Jquery",
+      "level": "Medium",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "Web Development", "JavaScript Library", "DOM Manipulation", "Frontend"
       ]
     },
     {
-      "name": "MySQL",
-      "level": "Avanzado",
+      "name": "Figma",
+      "level": "Medium",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Design", "UI/UX", "Prototyping", "Collaboration"
+      ]
+    },
+    {
+      "name": "Redmine",
+      "level": "Master",
+      "keywords": [
+        "Project Management", "Agile", "Scrum", "Issue Tracking"
+      ]
+    },
+    {
+      "name": "Jira",
+      "level": "Medium",
+      "keywords": [
+        "Project Management", "Agile", "Scrum", "Issue Tracking"
+      ]
+    },
+    {
+      "name": "Datadog",
+      "level": "Medium",
+      "keywords": [
+        "Logging", "Monitoring", "Performance Metrics", "Alerting"
+      ]
+    },
+    {
+      "name": "ElasticSearch",
+      "level": "Medium",
+      "keywords": [
+        "Indexing", "Search Engine", "Performance Optimization"
+      ]
+    },
+    {
+      "name": "Vim",
+      "level": "Medium",
+      "keywords": [
+        "Editor", "Text Editing", "Command Line", "Productivity"
       ]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "Master",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Version Control", "Collaboration", "Source Code"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Spanish",
+      "language": "Urdu",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Punjabi",
       "fluency": "Native speaker"
     },
     {
@@ -204,11 +262,8 @@
     }
   ],
   "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
+    "name": "",
+    "keywords": []
   }],
   "references": [{
     "name": "Jane Doe",
@@ -216,66 +271,26 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "SmallBytes",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "A responsive web-app that is use to compress / decompress files containing different formats.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Compression Algorithm",
+        "Lempel-Ziv"
       ],
-      "url": "https://mars.codes"
+      "url": "https://small-bytes-dawoodmalhi.vercel.app/",
+      "github": "https://github.com/dawoodmalhi/SmallBytes"
     },
     {
-      "name": "AdventJS",
+      "name": "Open Rust Crate",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "A Extension for VS Code that scans all crates installed on your system and provides a quick way to open them in your editor.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "~800 Downloads",
+        "Rust Language"
       ],
-      "url": "https://adventjs.dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://marketplace.visualstudio.com/items?itemName=DawoodMalhi.open-rust-crate",
+      "github": "https://github.com/dawoodmalhi/open-rust-crate"
     }
   ]
 }
